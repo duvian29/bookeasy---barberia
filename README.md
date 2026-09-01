@@ -7,7 +7,7 @@ Proyecto desarrollado con React y Vite, enfocado en una interfaz moderna y limpi
 
 ## 📸 Vista previa
 
-<img width="1277" height="852" alt="image" src="https://github.com/user-attachments/assets/81d31732-7040-4f86-a90b-55b5af6d2898" />
+<img width="1277" height="852" alt="image" src="https://github.com/user-attachments/assets/969a7b12-7236-4438-a83e-25fe9b496968" />
 
 
 ## 🚀 Tecnologías utilizadas
@@ -31,4 +31,4 @@ Proyecto desarrollado con React y Vite, enfocado en una interfaz moderna y limpi
 - Confirmación de reserva en tiempo real
 
 ## 👤 Autor
-Desarrollado por Duvian Augusto Yepes Toro https://www.linkedin.com/in/duvian-yepes-toro-a04515232  https://github.com/duvian29
+Desarrollado por Duvian Augusto Yepes Toro   https://www.linkedin.com/in/duvian-yepes-toro-a04515232      https://github.com/duvian29
