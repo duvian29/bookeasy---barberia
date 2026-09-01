@@ -7,7 +7,8 @@ Proyecto desarrollado con React y Vite, enfocado en una interfaz moderna y limpi
 
 ## 📸 Vista previa
 
-![BookEasy - Barbería](src/assets/bookeasy-preview.png)
+<img width="1277" height="852" alt="image" src="https://github.com/user-attachments/assets/81d31732-7040-4f86-a90b-55b5af6d2898" />
+
 
 ## 🚀 Tecnologías utilizadas
 
